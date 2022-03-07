@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Tommi Alaoja (@Vacciee) a programmer student.
+👋 Hi, I’m Tommi Alaoja (@Vacciee) a programmer student.
 - I’m interested in video game programming.
 - I’m currently learning Unity & C# coding for game development. 
 - I am interested in learning to code with Java, C++ and using other game engines like Unreal Engine etc.
 - How to reach me 📫 https://www.linkedin.com/in/tommi-alaoja/ or 📫 tommi.alaoja@outlook.com
--
-- Genres and fields i'm interested in working on
+
+ Genres and fields i'm interested in working on
 - Hack & Slash [2D & 3D] and adventure.
 - AI programming
 
