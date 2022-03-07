@@ -9,7 +9,7 @@
 - AI programming
 
 Current projects:
-A school sidescroller platform adventure game project. [Nohhing to show yet]
+A school sidescroller platform adventure game project. [Nohing to show yet]
 
 <!---
 Vacciee/Vacciee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
