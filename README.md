@@ -4,10 +4,6 @@
 - I am interested in learning to code with Java, C++ and using other game engines like Unreal Engine etc.
 - How to reach me 📫 tommi.alaoja@outlook.com
 
- Genres and fields i'm interested in working on
-- Hack & Slash [2D & 3D] and adventure.
-- AI programming
-
 Current projects:
 A school sidescroller platform adventure game project. [Nohing to show yet]
 
