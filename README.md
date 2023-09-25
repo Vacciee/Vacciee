@@ -5,7 +5,7 @@
 - How to reach me 📫 tommi.alaoja@outlook.com
 
 Current projects:
-A school sidescroller platform adventure game project. [Nohing to show yet]
+A school projects
 
 <!---
 Vacciee/Vacciee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
