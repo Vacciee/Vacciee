@@ -2,7 +2,7 @@
 - I’m interested in video game programming.
 - I’m currently learning Unity & C# coding for game development. 
 - I am interested in learning to code with Java, C++ and using other game engines like Unreal Engine etc.
-- How to reach me 📫 tommi.alaoja@outlook.com
+- How to reach me 📫 tommi.alaoja@outlook.com or https://www.linkedin.com/in/tommi-alaoja/​
 
 Current projects:
 A school projects
