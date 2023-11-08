@@ -4,9 +4,6 @@
 - I am interested in learning to code with Java, C++ and using other game engines like Unreal Engine etc.
 - How to reach me 📫 tommi.alaoja@outlook.com or https://www.linkedin.com/in/tommi-alaoja/​
 
-Current projects:
-A school projects
-
 <!---
 Vacciee/Vacciee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
