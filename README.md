@@ -3,6 +3,7 @@
 - I’m currently learning Unity & C# coding for game development. 
 - I am interested in learning to code with C#, C++ and using other game engines like Godot etc.
 - How to reach me 📫 tommi.alaoja@outlook.com or https://www.linkedin.com/in/tommi-alaoja/​
+- Presentable projects in my Itch.io page : https://vaccie.itch.io/
 
 <!---
 Vacciee/Vacciee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
